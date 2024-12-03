@@ -40,6 +40,9 @@ This transformation shifts the MIS system from a traditional manual operation mo
 
 7. The results returned in a conversational mode are human-readable language, but these outputs need to be converted into structured data that programs can recognize, with JSON being the ideal format.  
 
-8. Sometimes, the AI needs a sample to correctly generate outputs based on the given example.  
+8. Sometimes, the AI needs a sample to correctly generate outputs based on the given example.
+
+
+### UI Implementation and Integration with Free Large Models
 
 
