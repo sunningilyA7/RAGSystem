@@ -44,5 +44,26 @@ This transformation shifts the MIS system from a traditional manual operation mo
 
 
 ### UI Implementation and Integration with Free Large Models
+### Function Realization
+### Improving RAG Applications: Diagnostics, Debugging, and Support for Java and .NET-based MIS Systems
+1.  Methods for diagnosing and debugging MIS systems, including `viewing user queries`, enabling an `admin interface`, and adding `administrators`.  
+
+2. By modifying the code and adding an `admin interface`, it is possible to view `conversation logs`, `structured results` returned by the large model, AI-processed outputs, and payloads sent to the model within the MIS system.  
+
+3. Python’s `#region` keyword can be used to group functions of the same type, making the code easier to manage.  
+
+4. To reuse the functionality of the case study in `Java` or `.NET-based` MIS systems, the features can be exposed as API interfaces for these systems to call.  
+
+5. Adding new interfaces, modifying `rag.py` and `views.py`, and registering APIs can enable the functionalities of the case study to be exposed as `external APIs`.  
+
+6. Query results can be converted into strings using a dedicated function, allowing the results to be utilized within the MIS system.  
+
+7. Since AI development is predominantly Python-based, it is not recommended to completely convert existing Java or .NET MIS systems to Python.  
+
+8. Refactoring the code with AI can improve its quality, as demonstrated in the final step.  
+
+9. Explains how to use Python features within MIS systems and reuse the case study’s code for integration.  
+
+10. Adding an `admin interfac`e and `API integration` enables diagnostic debugging and supports Java and .NET functionalities in MIS systems.  
 
 
