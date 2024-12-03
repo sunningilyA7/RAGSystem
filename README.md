@@ -25,4 +25,6 @@ This transformation shifts the MIS system from a traditional manual operation mo
 
 6. In RAG applications, memory is achieved by the AI interpreting the user's intent based on prior conversations and correctly answering subsequent questions.
 
+### Return structured data
+
 
